@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/finch/Desktop/Universidad/C C++/Juego/main.cpp
+unistd.h
+-
+allegro5/allegro.h
+-
+allegro5/allegro_native_dialog.h
+-
+
